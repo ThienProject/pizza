@@ -1,0 +1,1 @@
+this project was builded follow learn asp.net core: https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/6-exercise-add-controller
