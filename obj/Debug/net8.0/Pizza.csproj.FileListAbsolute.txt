@@ -30,3 +30,4 @@ D:\file\project\net course\Pizza\obj\Debug\net8.0\refint\Pizza.dll
 D:\file\project\net course\Pizza\obj\Debug\net8.0\Pizza.pdb
 D:\file\project\net course\Pizza\obj\Debug\net8.0\Pizza.genruntimeconfig.cache
 D:\file\project\net course\Pizza\obj\Debug\net8.0\ref\Pizza.dll
+D:\file\project\net course\Pizza\obj\Debug\net8.0\Pizza.sourcelink.json
